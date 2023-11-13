@@ -9,7 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "prepare": "husky install",
-    "test": "tsc"
+    "tsc": "tsc"
   },
   "dependencies": {
     "react": "^18.2.0",
